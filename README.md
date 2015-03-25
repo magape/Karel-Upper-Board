@@ -1,7 +1,7 @@
 Karel Upper Board
 =======
 Robotic platform Karel consists of two boards, upper and lower. Upper board contains:
--	Electronic switch
+-	Power switch
 -	Motor voltage regulator
 -	Motor drivers
 -	+5V regulator
@@ -10,7 +10,7 @@ Robotic platform Karel consists of two boards, upper and lower. Upper board cont
 -	User push-buttons (4)
 -	User LEDs (4)
 -	User potentiometer
--	Bluetooth
+-	Bluetooth & Level Shifter
 -	ISP, USB, USART interfaces
 
 
