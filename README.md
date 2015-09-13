@@ -17,3 +17,8 @@ Robotic platform Karel consists of two boards, upper and lower. Upper board cont
 Credits
 =======
 The circuit was designed by Mihai Agape.
+
+
+Licence
+=======
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
